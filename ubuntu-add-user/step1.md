@@ -4,4 +4,10 @@ create a user with the adduser command.
 
 This command will create a user account. Change new_user to any name you like!
 
-`sudo adduser new_user`{{execute}}
+`sudo adduser --disabled-password new_user`{{execute}}
+* Username add here, type `new_user`{{execute}}
+{{execute}}
+{{execute}}
+{{execute}}
+{{execute}}
+* Confirm everything is correct and hit Yes, type `Y`{{execute}}
