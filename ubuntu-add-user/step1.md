@@ -3,6 +3,7 @@ create a user with the adduser command.
 ## Task
 
 This command will create a user account. Change new_user to any name you like!
+try and type each command yourself.  These commands come in handy all the time.
 
 `sudo adduser --disabled-password new_user`{{execute}}
 * Username add here, type `new_user`{{execute}}
