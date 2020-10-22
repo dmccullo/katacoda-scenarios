@@ -2,10 +2,9 @@
   "title": "Add a new ssh user to Ubuntu",
   "description": "When creating a new cloud instance adding a new user for a developer is a good idea",
   "difficulty": "Beginner",
-  "time": "15 minutes",
+  "time": "10 minutes",
   "details": {
-    "steps": [
-      {
+    "steps": [{
         "title": "Step 1",
         "text": "step1.md"
       },
@@ -16,8 +15,7 @@
       {
         "title": "Step 3",
         "text": "step3.md"
-      },
-    ],
+      }],
     "intro": {
       "text": "intro.md"
     },
@@ -31,4 +29,3 @@
   "backend": {
     "imageid": "ubuntu1804"
   }
-}
