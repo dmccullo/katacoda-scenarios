@@ -19,4 +19,4 @@ Next we need to create a directory and create a file in it.
 * Update permissions on the directory, type `chmod 700 .ssh`{{execute}}
 * create the authorized_keys file the SSH service needs, type `touch .ssh/authorized_keys`{{execute}}
 * change permissions on the Authorized_Keys file, type `chmod 600 .ssh/authorized_keys`{{execute}}
-* add your key to the authorized_keys file, type `cat New_user-key.pub >> .ssh/authorized_keys`{{execute}}
+* add your key to the authorized_keys file, type `cat new_user-key.pub >> .ssh/authorized_keys`{{execute}}
