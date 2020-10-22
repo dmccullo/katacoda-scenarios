@@ -4,7 +4,6 @@
 
 Visit https://www.katacoda.com/dmccullo to view the profile and interactive scenarios
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+## These scenarios are developed to help users of Cloud technology be more effective and secure.
+The goal is to cover topics that i see alot of users having issues with
+Let me know if you would like a topic covered.
